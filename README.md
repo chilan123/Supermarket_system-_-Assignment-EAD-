@@ -1,4 +1,4 @@
-assignment Guidlines
+assignment Guidlines EAD subject
 Important - Group must form maximum of 10 members and minimum must be 8 and need to provide a report and need to face for a viva.
 
 In this assignment, you are required to design a system for a supermarket using Spring Boot. Frontend development is not mandatory but will be considered a plus. The system should allow customers to register, sign up, and purchase items. The inventory keeper should be able to add items to the inventory and receive orders placed by customers. Once the inventory keeper prepares the order, a delivery person will pick it up and deliver it to the customer. The customer should be able to track the progress of their order.
